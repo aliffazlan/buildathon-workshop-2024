@@ -18,6 +18,7 @@ After installing, open up your terminal and type:
 You can then copy paste (or download from git if you know how) the starter code:
 
 [Python Code](./bluetooth_client.py)
+
 [Arduino Code](./bluetooth_excerise.ino)
 
 ## Using the code

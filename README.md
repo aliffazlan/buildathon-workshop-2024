@@ -21,3 +21,9 @@ Here are the links to the solutions for the exercises covered during the worksho
 2. [Echo](./Echo/Echo.ino)
 3. [Led Toggle](./LEDToggle/LEDToggle.ino)
 4. [Dimmer](./Dimmer/Dimmer.ino)
+
+## Bluetooth
+
+A quick tutorial and exercise for using Bluetooth can be found here:
+
+[Bluetooth](./Bluetooth/README.md)
