@@ -4,6 +4,14 @@ This repository contains the materials and code for the **Arduino Programming Wo
 
 ---
 
+# Slide Deck
+
+Here are the slides used for the workshop:
+
+[Slide Deck](https://docs.google.com/presentation/d/1xtFc0-bcGbDQ6RM8ep8WdPHvR7mKjDzrsEryHeczaHc/edit?usp=sharing)
+
+---
+
 ## Exercises
 
 Here are the links to the solutions for the exercises covered during the workshop:
