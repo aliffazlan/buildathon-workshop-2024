@@ -4,7 +4,7 @@ This repository contains the materials and code for the **Arduino Programming Wo
 
 ---
 
-# Slide Deck
+## Slide Deck
 
 Here are the slides used for the workshop:
 
