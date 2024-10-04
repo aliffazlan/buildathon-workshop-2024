@@ -12,9 +12,9 @@ Here are the slides used for the workshop:
 
 ---
 
-## Exercises
+## Exercise Solutions
 
-Here are the links to the solutions for the exercises covered during the workshop:
+Here are the links to some sample solutions for the exercises covered during the workshop:
 
 1. [Printing Numbers (Delay)](./PrintingNumbersDelay/PrintingNumbersDelay.ino)
 1. [Printing Numbers (Millis)](./PrintingNumbersMillis/PrintingNumbersMillis.ino)
